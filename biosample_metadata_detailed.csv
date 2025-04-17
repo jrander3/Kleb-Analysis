@@ -1,0 +1,103 @@
+BioSample,strain,collected_by,sequenced_by,collection_date,geo_loc_name,isolation_source,source_type,lat_lon,project_name,isolate,host,host_disease
+SAMN47618659,GT25-0222,SC,South Carolina Department of Public Health,2025-02-18,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM FY5,,,
+SAMN47618658,GT25-0221,SC,South Carolina Department of Public Health,2025-02-18,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM FY5,,,
+SAMN47618666,GT25-0234,SC,South Carolina Department of Public Health,2025-03-02,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM FY5,,,
+SAMN47618663,GT25-0228,SC,South Carolina Department of Public Health,2025-03-02,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM FY5,,,
+SAMN47618662,GT25-0227,SC,South Carolina Department of Public Health,2025-03-02,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM FY5,,,
+SAMN47304982,GT25-0186,SC,South Carolina Department of Public Health,2025-02-02,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM FY5,,,
+SAMN47132441,GT25-0191,SC,South Carolina Department of Public Health,2025-02-02,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM FY5,,,
+SAMN47132440,GT25-0190,SC,South Carolina Department of Public Health,2025-02-02,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM FY5,,,
+SAMN47132433,GT25-0145,SC,South Carolina Department of Public Health,2024-12-01,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM FY5,,,
+SAMN46781834,GT25-0167,SC,South Carolina Department of Public Health,2025-01-05,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM FY5,,,
+SAMN46205658,GT25-0142,SC,South Carolina Department of Public Health,2024-12-01,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM FY5,,,
+SAMN46135435,GT25-0131,SC,South Carolina Department of Public Health,2024-12-01,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM FY5,,,
+SAMN46045775,GT25-0121,SC,South Carolina Department of Public Health,2024-12-01,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM FY5,,,
+SAMN46045774,GT25-0120,SC,South Carolina Department of Public Health,2024-12-01,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM FY5,,,
+SAMN45067723,GT25-0104,SC,South Carolina Department of Public Health,2024-09-26,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM FY5,,,
+SAMN44030422,GT25-0035,SC,South Carolina Department of Health and Environmental Control,2024-07-31,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM YR5,,,
+SAMN44030421,GT25-0011,SC,South Carolina Department of Health and Environmental Control,2024-07-25,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM YR5,,,
+SAMN43946193,GT25-0087,SC,South Carolina Department of Health and Environmental Control,2024-08-25,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM YR5,,,
+SAMN43385578,GT25-0028,SC,South Carolina Department of Public Health,2024-07-28,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM-FY5,,,
+SAMN43487299,GT25-0052,SC,South Carolina Department of Public Health,2024-07-31,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM-FY5,,,
+SAMN43487297,GT25-0047,SC,South Carolina Department of Public Health,2024-07-31,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM-FY5,,,
+SAMN43487294,GT25-0040,SC,South Carolina Department of Public Health,2024-07-31,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM-FY5,,,
+SAMN41914966,GT24-0397,SC,South Carolina Department of Public Health,2024-05-12,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM-FY4,,,
+SAMN41914964,GT24-0395,SC,South Carolina Department of Public Health,2024-05-12,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM-FY4,,,
+SAMN41914978,GT24-0412,SC,South Carolina Department of Public Health,2024-05-13,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM-FY4,,,
+SAMN41914976,GT24-0408,SC,South Carolina Department of Public Health,2024-05-12,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM-FY4,,,
+SAMN41914970,GT24-0402,SC,South Carolina Department of Public Health,2024-05-12,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM-FY4,,,
+SAMN41934895,GT24-0423,SC,South Carolina Department of Public Health,2024-05-15,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM-FY4,,,
+SAMN41934893,GT24-0421,SC,South Carolina Department of Public Health,2024-05-15,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM-FY4,,,
+SAMN41934892,GT24-0420,SC,South Carolina Department of Public Health,2024-05-15,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM-FY4,,,
+SAMN40738669,GT24-0319,SC,South Carolina Department of Public Health,2024-02-20,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM-FY4,,,
+SAMN40738667,GT24-0315,SC,South Carolina Department of Public Health,2024-02-20,USA:SC,wastewater,environmental,missing,GenomeTrakr; LFFM-FY4,,,
+SAMN47550467,,NYCDOHMH Public Health Lab,,2024,USA,urine,,40.71 N 74.01 W,,CRE000000462,Homo sapiens,Klebsiella pneumoniae infection
+SAMN37043316,,Hamad General Hospital,,2019-05-25,Qatar:Doha,blood,,25.28 N 51.53 E,,10BC190026860,Homo sapiens,Not available
+SAMN37043250,,National Center for Cancer Care and Research,,2019-05-02,Qatar:Doha,blood,,25.28 N 51.53 E,,13BC190041491,Homo sapiens,Not available
+SAMN37043331,,Hamad General Hospital,,2019-12-04,Qatar:Doha,blood,,25.28 N 51.53 E,,10BC190060820,Homo sapiens,Not available
+SAMN37043330,,Hamad General Hospital,,2019-11-12,Qatar:Doha,blood,,25.28 N 51.53 E,,10BC190056955,Homo sapiens,Not available
+SAMN37043326,,Hamad General Hospital,,2019-09-27,Qatar:Doha,blood,,25.28 N 51.53 E,,10BC190048020,Homo sapiens,Not available
+SAMN37043335,,Heart Hospital,,2019-05-23,Qatar:Doha,blood,,25.28 N 51.53 E,,11BC190047849,Homo sapiens,Not available
+SAMN37043333,,Hamad General Hospital,,2019-12-15,Qatar:Doha,blood,,25.28 N 51.53 E,,10BC190062878,Homo sapiens,Not available
+SAMN37043245,,Hamad General Hospital,,2019-07-18,Qatar:Doha,blood,,25.28 N 51.53 E,,10BC190036299,Homo sapiens,Not available
+SAMN37043243,,Hamad General Hospital,,2019-03-12,Qatar:Doha,blood,,25.28 N 51.53 E,,10BC190012948,Homo sapiens,Not available
+SAMN36971423,AGP0011,"AGMC, Agartala",,2020-03-26,India: Agartala,blood,,23.83605 N 91.27939 E,,,Homo sapiens,sepsis
+SAMN36971422,AGA0089,"AGMC, Agartala",,2021-04-07,India: Agartala,urine,,23.83605 N 91.27939 E,,,Homo sapiens,sepsis
+SAMN36971421,AGA0088,"AGMC, Agartala",,2021-03-29,India: Agartala,blood,,23.83605 N 91.27939 E,,,Homo sapiens,sepsis
+SAMN36971420,AGA0084,"AGMC, Agartala",,2021-03-01,India: Agartala,blood,,23.83605 N 91.27939 E,,,Homo sapiens,sepsis
+SAMN36971419,AGA0077,"AGMC, Agartala",,2021-01-11,India: Agartala,blood,,23.83605 N 91.27939 E,,,Homo sapiens,sepsis
+SAMN36971418,AGA0058,"AGMC, Agartala",,2020-07-24,India: Agartala,urine,,23.83605 N 91.27939 E,,,Homo sapiens,sepsis
+SAMN36971417,AGA0042,"AGMC, Agartala",,2020-02-20,India: Agartala,blood,,23.83605 N 91.27939 E,,,Homo sapiens,sepsis
+SAMN47550466,,NYCDOHMH Public Health Lab,,2024,USA,sputum,,40.71 N 74.01 W,,CRE000000460,Homo sapiens,Klebsiella pneumoniae infection
+SAMN36971416,AGA0038,"AGMC, Agartala",,2020-03-11,India: Agartala,blood,,23.83605 N 91.27939 E,,,Homo sapiens,sepsis
+SAMN46926781,,NYCDOHMH Public Health Lab,,2018,USA,bone marrow,,40.71 N 74.01 W,,CRE000000508,Homo sapiens,K. pneumoniae infection
+SAMN36971415,AGA0030,"AGMC, Agartala",,2020-10-15,India: Agartala,blood,,23.83605 N 91.27939 E,,,Homo sapiens,sepsis
+SAMN46369041,,NYCDOHMH Public Health Lab,,2023,USA,blood,,40.71 N 74.01 W,,CRE000000473,Homo sapiens,K. pneumoniae infection
+SAMN46369035,,NYCDOHMH Public Health Lab,,2023,USA,respiratory,,40.71 N 74.01 W,,CRE000000467,Homo sapiens,K. pneumoniae infection
+SAMN39842007,18A17CRGN001A,Canadian Nosocomial Infection Surveillance Program,,2017,Canada: Ottawa,stool/rectal swab,,missing,,,Homo sapiens,not collected
+SAMN46293523,,NYCDOHMH Public Health Lab,,2023,USA,wound,,40.71 N 74.01 W,,CRE000000458,Homo sapiens,K. pneumoniae infection
+SAMN46293483,,NYCDOHMH Public Health Lab,,2023,USA,bone,,40.71 N 74.01 W,,CRE000000414,Homo sapiens,K. pneumoniae infection
+SAMN46293028,,NYCDOHMH Public Health Lab,,2023,USA,urine,,40.71 N 74.01 W,,CRE000000019,Homo sapiens,K. pneumoniae infection
+SAMN39842005,17A18CPO001A,Canadian Nosocomial Infection Surveillance Program,,2018,Canada: Ottawa,stool/rectal swab,,missing,,,Homo sapiens,not collected
+SAMN39842003,17A16CRGN002,Canadian Nosocomial Infection Surveillance Program,,2016,Canada: Ottawa,urine,,missing,,,Homo sapiens,not collected
+SAMN39841939,07D18CPO001,Canadian Nosocomial Infection Surveillance Program,,2018,Canada: Ottawa,stool/rectal swab,,missing,,,Homo sapiens,not collected
+SAMN39841937,07D14CRGN001,Canadian Nosocomial Infection Surveillance Program,,2014,Canada: Ottawa,blood,,missing,,,Homo sapiens,not collected
+SAMN44383827,,NYCDOHMH Public Health Lab,,2020,USA,urine,,40.71 N 74.01 W,,CRE000000204,Homo sapiens,K. pneumoniae infection
+SAMN39841934,07C14CRGN003,Canadian Nosocomial Infection Surveillance Program,,2014,Canada: Ottawa,wound,,missing,,,Homo sapiens,not collected
+SAMN39841933,07B21CPO011B,Canadian Nosocomial Infection Surveillance Program,,2021,Canada: Ottawa,blood,,missing,,,Homo sapiens,not collected
+SAMN44383825,,NYCDOHMH Public Health Lab,,2020,USA,wound,,40.71 N 74.01 W,,CRE000000202,Homo sapiens,K. pneumoniae infection
+SAMN39841931,07B21CPO010B,Canadian Nosocomial Infection Surveillance Program,,2021,Canada: Ottawa,stool/rectal swab,,missing,,,Homo sapiens,not collected
+SAMN44383818,,NYCDOHMH Public Health Lab,,2020,USA,sputum,,40.71 N 74.01 W,,CRE000000195,Homo sapiens,K. pneumoniae infection
+SAMN39841886,01A16CRGN003,Canadian Nosocomial Infection Surveillance Program,,2016,Canada: Ottawa,sputum/endotracheal secretions/bronchoalveolar lavage,,missing,,,Homo sapiens,not collected
+SAMN46926788,,NYCDOHMH Public Health Lab,,2020,USA,wound,,40.71 N 74.01 W,,CRE000000515,Homo sapiens,K. pneumoniae infection
+SAMN39841925,07B18CPO003,Canadian Nosocomial Infection Surveillance Program,,2018,Canada: Ottawa,blood,,missing,,,Homo sapiens,not collected
+SAMN46926787,,NYCDOHMH Public Health Lab,,2020,USA,urine,,40.71 N 74.01 W,,CRE000000514,Homo sapiens,K. pneumoniae infection
+SAMN46926786,,NYCDOHMH Public Health Lab,,2020,USA,urine,,40.71 N 74.01 W,,CRE000000513,Homo sapiens,K. pneumoniae infection
+SAMN39841923,07B17CRGN006,Canadian Nosocomial Infection Surveillance Program,,2017,Canada: Ottawa,stool/rectal swab,,missing,,,Homo sapiens,not collected
+SAMN46926785,,NYCDOHMH Public Health Lab,,2020,USA,blood,,40.71 N 74.01 W,,CRE000000512,Homo sapiens,K. pneumoniae infection
+SAMN39841922,07B15CRGN017,Canadian Nosocomial Infection Surveillance Program,,2015,Canada: Ottawa,urine,,missing,,,Homo sapiens,not collected
+SAMN46926784,,NYCDOHMH Public Health Lab,,2019,USA,sputum,,40.71 N 74.01 W,,CRE000000511,Homo sapiens,K. pneumoniae infection
+SAMN39841885,01A15CRGN008,Canadian Nosocomial Infection Surveillance Program,,2015,Canada: Ottawa,stool/rectal swab,,missing,,,Homo sapiens,not collected
+SAMN39842002,16A1314CRGN001,Canadian Nosocomial Infection Surveillance Program,,2013,Canada: Ottawa,urine,,missing,,,Homo sapiens,not collected
+SAMN46926782,,NYCDOHMH Public Health Lab,,2018,USA,urine,,40.71 N 74.01 W,,CRE000000509,Homo sapiens,K. pneumoniae infection
+SAMN46926808,,NYCDOHMH Public Health Lab,,2023,USA,Incision,,40.71 N 74.01 W,,CRE000000538,Homo sapiens,K. pneumoniae infection
+SAMN39842001,16A1213CRGN002,Canadian Nosocomial Infection Surveillance Program,,2012,Canada: Ottawa,urine,,missing,,,Homo sapiens,not collected
+SAMN46926807,,NYCDOHMH Public Health Lab,,2023,USA,urine,,40.71 N 74.01 W,,CRE000000537,Homo sapiens,K. pneumoniae infection
+SAMN39841893,01B15CRGN003,Canadian Nosocomial Infection Surveillance Program,,2015,Canada: Ottawa,stool/rectal swab,,missing,,,Homo sapiens,not collected
+SAMN46926806,,NYCDOHMH Public Health Lab,,2023,USA,blood,,40.71 N 74.01 W,,CRE000000536,Homo sapiens,K. pneumoniae infection
+SAMN39842000,11ACRGNY3029,Canadian Nosocomial Infection Surveillance Program,,2011,Canada: Ottawa,urine,,missing,,,Homo sapiens,not collected
+SAMN46926805,,NYCDOHMH Public Health Lab,,2023,USA,urine,,40.71 N 74.01 W,,CRE000000535,Homo sapiens,K. pneumoniae infection
+SAMN39841998,11A21CPO080A,Canadian Nosocomial Infection Surveillance Program,,2021,Canada: Ottawa,stool/rectal swab,,missing,,,Homo sapiens,not collected
+SAMN39841995,11A21CPO057A,Canadian Nosocomial Infection Surveillance Program,,2021,Canada: Ottawa,stool/rectal swab,,missing,,,Homo sapiens,not collected
+SAMN46926804,,NYCDOHMH Public Health Lab,,2023,USA,respiratory,,40.71 N 74.01 W,,CRE000000534,Homo sapiens,K. pneumoniae infection
+SAMN46926803,,NYCDOHMH Public Health Lab,,2023,USA,wound,,40.71 N 74.01 W,,CRE000000533,Homo sapiens,K. pneumoniae infection
+SAMN46926802,,NYCDOHMH Public Health Lab,,2023,USA,bone,,40.71 N 74.01 W,,CRE000000532,Homo sapiens,K. pneumoniae infection
+SAMN39841993,11A21CPO054A,Canadian Nosocomial Infection Surveillance Program,,2021,Canada: Ottawa,stool/rectal swab,,missing,,,Homo sapiens,not collected
+SAMN46926801,,NYCDOHMH Public Health Lab,,2023,USA,respiratory,,40.71 N 74.01 W,,CRE000000531,Homo sapiens,K. pneumoniae infection
+SAMN46926800,,NYCDOHMH Public Health Lab,,2023,USA,urine,,40.71 N 74.01 W,,CRE000000530,Homo sapiens,K. pneumoniae infection
+SAMN39841990,11A21CPO027,Canadian Nosocomial Infection Surveillance Program,,2021,Canada: Ottawa,sputum/endotracheal secretions/bronchoalveolar lavage,,missing,,,Homo sapiens,not collected
+SAMN39841988,11A21CPO017,Canadian Nosocomial Infection Surveillance Program,,2021,Canada: Ottawa,stool/rectal swab,,missing,,,Homo sapiens,not collected
+SAMN39841972,11A17CRGN012,Canadian Nosocomial Infection Surveillance Program,,2017,Canada: Ottawa,stool/rectal swab,,missing,,,Homo sapiens,not collected
+SAMN39841971,11A17CRGN003C,Canadian Nosocomial Infection Surveillance Program,,2017,Canada: Ottawa,stool/rectal swab,,missing,,,Homo sapiens,not collected
+SAMN46926799,,NYCDOHMH Public Health Lab,,2023,USA,urine,,40.71 N 74.01 W,,CRE000000526,Homo sapiens,K. pneumoniae infection
+SAMN39841970,11A17CRGN003A,Canadian Nosocomial Infection Surveillance Program,,2017,Canada: Ottawa,stool/rectal swab,,missing,,,Homo sapiens,not collected
